@@ -29,9 +29,9 @@ data.forEach(c => {
     lBar.setTotal(lBar.total + sc.data.length)
     sc.data.forEach(d => {
       if (d.commandBeforeContent === true) {
-        text += `\`${d.command}\` - ${d.content}\n`
+        text += `- \`${d.command}\` - ${d.content}\n`
       } else {
-        text += `\`${d.content}\` - ${d.command}\n`
+        text += `- ${d.content} - \`${d.command}\`\n`
       }
       lBar.increment()
     })

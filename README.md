@@ -4,9 +4,9 @@ This is where all the information is held for the Frantic Discord server. You ca
 - Discord Server: https://l.ahf.pw/frantic-discord
   - FAQ: [Read Here](./FAQ/README.md)
   - Rules: [Read Here](./Rules/README.md)
-  - Staff List: [Read Here](./Staff List/README.md)
-  - Staff Tips & Tricks: [Read Here](./Staff Tips & Tricks/README.md)
-  - Useful Information: [Read Here](./Useful Information/README.md)
+  - Staff List: [Read Here](./Staff%20List/README.md)
+  - Staff Tips & Tricks: [Read Here](./Staff%20Tips%20&%20Tricks/README.md)
+  - Useful Information: [Read Here](./Useful%20Information/README.md)
 
 ---
 #### Social Media

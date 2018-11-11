@@ -1,9 +1,8 @@
 # :pushpin: __**Useful Extra Information**__
 
-> Last Updated 2018/11/11 14:37:79
+> Last Updated 2018/11/11 15:10:91
 
 ---
-
 ## Main
 - Need to contact staff? Use `/ticket add [info about the problem]` to open a support ticket and the next available staff member will get to you right away. **In case of an emergency, mention @Staff. Abuse will lead to instant ban without notice.**
 - Use `?rank Updates` to receive notifications when Matty posts or goes live.

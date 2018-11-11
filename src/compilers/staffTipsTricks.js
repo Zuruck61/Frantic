@@ -15,7 +15,7 @@ text += stripIndents`
   # :tools: __**Staff Tips & Tricks**__
 
   > Last Updated ${moment(new Date()).format('YYYY/MM/DD HH:mm:SS')}
-`; text += '\n\n---\n'; lBar.increment()
+`; text += '\n\n---'; lBar.increment()
 
 data.forEach(c => {
   text += `\n# ${c.name}\n`

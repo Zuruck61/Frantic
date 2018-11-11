@@ -1,6 +1,6 @@
 # :scales: __**Rules**__
 
-> Last Updated 2018/11/11 13:01:87
+> Last Updated 2018/11/11 15:09:53
 
 ---
 - No NSFW what so ever. **(Class IV)**

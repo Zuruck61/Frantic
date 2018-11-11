@@ -1,9 +1,8 @@
 # :tools: __**Staff Tips & Tricks**__
 
-> Last Updated 2018/11/11 14:28:02
+> Last Updated 2018/11/11 15:10:00
 
 ---
-
 # Discord
 *Do not include <> nor [] - <> means required and [] means optional.*
 

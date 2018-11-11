@@ -30,7 +30,8 @@
     "chalk": "^2.4.1",
     "cli-progress": "^2.1.0",
     "common-tags": "^1.8.0",
-    "moment": "^2.22.2"
+    "moment": "^2.22.2",
+    "moment-timezone": "^0.5.23"
   },
   "devDependencies": {
     "snazzy": "^8.0.0",

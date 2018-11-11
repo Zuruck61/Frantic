@@ -18,7 +18,7 @@ text += stripIndents`
 `; text += '\n\n---'; lBar.increment()
 
 data.rules.forEach(r => {
-  if (!!data.classes.find(c => c.name === r.class )) {
+  if (data.classes.find(c => c.name === r.class)) {
     text += `\n- ${r.content} **(${r.class})**`; lBar.increment()
   } else {
     lBar.stop(); throw new Error(`'${r.class}' is not a valid class.`)

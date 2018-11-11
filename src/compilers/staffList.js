@@ -19,7 +19,7 @@ text += stripIndents`
 
 data.positions.forEach(p => {
   text += `- **${p.name}** - *${p.description}*\n`; lBar.increment()
-  stf = data.staffMembers.filter(s => s.position === p.name)
+  var stf = data.staffMembers.filter(s => s.position === p.name)
   lBar.setTotal(lBar.total + stf.length)
   stf.forEach(s => {
     text += `  - **${s.username}#${s.discrim}** - \`${s.id}\`\n`

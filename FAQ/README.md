@@ -1,6 +1,6 @@
 # :question: Frequently Asked Questions :question:
 
-It would be appricated if you'd read this before asking any questions. :smile:
+It would be appreciated if you'd read this before asking any questions. :smile:
 
 *(If you haven't read #welcome yet, please do so.)*
 
@@ -11,3 +11,61 @@ The **Now Live** bot will post a message about 15 minutes after Matty starts str
 ---
 ### What does Frantic use to record?
 *"I use OBS most of the time, if I want quality I would use Dxtory"* —Frantic
+
+---
+### Why wasn't I able to talk?
+You triggered the automod four times and are muted for an hour.
+
+---
+### Can I be Staff?
+You don't get staff for asking. I hand out staff roles to people that actually help. You saying ***`can i hav mod plz?`*** will not only make me not give you a staff role, but will make me think you are way too irresponsible to even handle the position.
+
+---
+### Staff is being unfair! / I have trouble with some of the staff members! Who do I contact?
+You contact me, Aceheliflyer. Tell me what is wrong and provide evidence with details. I will sort things out and talk to that staff member.
+
+---
+### My friend / I got banned. What do I do?
+Bans are not meant to be evaded. If you or they were banned, it was for a good reason. There is a way to appeal, and that is by talk to @Aceheliflyer#0950 via DM. In your appeal, include the date you were banned on, why you were banned *(you should know this)* and why you would like to be unbanned. If you feel that you were unfairly banned for a misunderstanding or a bot accidentally malfunctioned, contact a staff member with an alternate account or get a friend to.
+
+***(Appealing does not guarantee that you will be unbanned.)***
+
+---
+### Can I have the/an Active role?
+No, you can earn guild points the more you talk. Use `t!leveledroles` to see how many points you need for each active role.
+
+**The roles are as following:**
+- `Trusted (1)` - Create server invites, can change nickname and add message reactions.
+- `Known (2)` - Can use external emojis.
+- `Recognized (3)` - DJ perms for FredBoat.
+
+---
+### Can we add our own bots?
+No, we only invite trusted Discord bots like **Dyno**, **FredBoat** and trusted community bots etc. If you really want to add your bot please talk to Aceheliflyer.
+
+---
+### How do I play music?
+First off, make sure you're in a voice channel.
+- `;;play [song]` - Will either search YouTube for the song or will play the song from a YouTube or SoundCloud URL.
+- `;;skip [song]` - Skips the current song, or all songs from one user, or a range of songs. If you're not a DJ, you can only skip your own songs.
+- `;;voteskip` - If at least 50% of people in the VC use this, the current song will be skipped.
+- `;;join` - Bot joins the VC.
+- `;;stop` - Bot leaves the VC and skips all songs. Only usable by DJ.
+
+If you have a DJ role, Recognized role, or any of the staff roles, you count as a DJ.
+
+---
+### Can I get a special role?
+No, then everyone else would want a special role and we'd have to give one out to everyone. You and I both know we can't have 100+ roles for every single person on the server.
+
+---
+### Can I join the KSP Multiplayer Server?
+No - the loading time for everyone will go through the roof due to all the objects flying around and the server's internet speeds. But you can host your own server very easily or join a public server. http://lunamultiplayer.com/download
+
+---
+### How can I join the SimplePlanes server?
+To join Matty on the SimplePlanes multiplayer server, download the multiplayer mod for desktop at: **<http://goo.gl/BP141s>** (Desktop only!). Once you download the mod join this IP address: **157.7.205.136**
+
+---
+### What is the IP for the Minecraft server?
+You can join at **minecraft.franticgaming.co.uk**.

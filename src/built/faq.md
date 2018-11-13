@@ -3,7 +3,7 @@ It would be appreciated if you'd read this before asking any questions. 😄
 
 *(If you haven't read #welcome yet, please do so.)*
 
-> Last Updated 2018/11/11 15:40:41
+> Last Updated 2018/11/12 22:25:75
 
 ---
 ### When does **@Frantic#0586** stream?

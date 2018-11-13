@@ -1,6 +1,6 @@
 # Ὦ0 Official Staff Team
 
-> Last Updated 2018/11/11 15:40:76
+> Last Updated 2018/11/12 22:25:39
 
 ---
 - **Frantic Gaming** - *Those in Frantic Gaming*
@@ -12,16 +12,17 @@
   - **Zynthia#4072** - `96672128497106944`
     - *(Europe/Stockholm)*
 - **Manager** - *Actually run the server for Matty (kind of?)*
-  - **Ἰ4AFestiveGulboyἸ4#6691** - `142627236011442176`
+  - **ANormalGulboy#6691** - `142627236011442176`
     - *(Europe/Istanbul)*
 - **Administrator** - *Manage the server*
   - **Ariathe#4163** - `325828052422492162`
   - **zuru the player of games#3876** - `269879089991516179`
+    - *(America/Chicago)*
 - **Moderator** - *Manage the chat*
   - **cat16#0725** - `217797734982352896`
     - *(America/New_York)*
   - **Damedol#7563** - `336508657120575498`
-  - **SenahVothViings#3619** - `371764747890327553`
+  - **BillyWithWings#3619** - `371764747890327553`
   - **TedBwo17#0382** - `247865770749460493`
     - *(America/Toronto)*
 - **Former Staff** - *The server's retired staff members*

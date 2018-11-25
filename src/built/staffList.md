@@ -18,13 +18,13 @@
   - **Ariathe#4163** - `325828052422492162`
   - **zuru the player of games#3876** - `269879089991516179`
     - *(America/Chicago)*
+  - **TedBwo17#0382** - `247865770749460493`
+    - *(America/Toronto)*
 - **Moderator** - *Manage the chat*
   - **cat16#0725** - `217797734982352896`
     - *(America/New_York)*
   - **Damedol#7563** - `336508657120575498`
   - **BillyWithWings#3619** - `371764747890327553`
-  - **TedBwo17#0382** - `247865770749460493`
-    - *(America/Toronto)*
 - **Former Staff** - *The server's retired staff members*
   - **Aceheliflyer#0950** - `196443959558406144`
     - *(America/New_York)*
